@@ -13,5 +13,4 @@ else :
     print(f'Es otro tipo de animal')
 
 
-
-hola
+print('Hola Joan ,soy Haibo , Apruebame') 
