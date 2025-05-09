@@ -11,6 +11,3 @@ elif animal in reptil :
     print(f'El animal es un reptil ')
 else : 
     print(f'Es otro tipo de animal')
-
-
-print('HOla Joan apruebame' ) 
